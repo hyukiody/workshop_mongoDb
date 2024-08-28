@@ -13,7 +13,7 @@ import com.workshopmongo.services.exception.ObjectNotFoundException;
 
 @Service
 public class PostService {
-		//the service class is the one responsible of managing the repository interface, providing methods for searching  in it while avoiding inconsistencies.
+		//the service class is the one responsible of managing the repository interface, providing methods for searching  in it while avoiding inconsistencies
 		@Autowired
 		private PostRepository repo;
 		
