@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @RestController
 @RequestMapping(value = "/posts")
 public class PostResource {
-
+	//this class type is the one responsible to communicate with the query, allowing the CRUD operations 
 	@Autowired
 	private PostService service;
 

@@ -11,6 +11,8 @@ import com.workshopmongo.domain.Post;
 
 @Repository
 public interface PostRepository extends MongoRepository<Post, String> {
+	//interface that customizes name and specifies which search methods we're about to use since this class extends the standardized MongoRepository
+	
 	List<Post> findByTitleContainingIgnoreCase(String text);
 
 	@Query("{'title' : {$regex: ?0, $options: 'i'} }")
