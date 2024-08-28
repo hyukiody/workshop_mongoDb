@@ -9,6 +9,8 @@ Additionally, we use the Postman application to fetch these objects via HTTP que
 Thank you for reading. Feel free to send a message or reach out if you have any questions.
 
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+
+
 PORTUGUÊS:
 
 Este é um projeto do seguinte curso online da Udemy.com: Java COMPLETO Programação Orientada a Objetos + Projetos, ministrado pelo Dr. Nelio Alves.
